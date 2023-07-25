@@ -1,2 +1,0 @@
-sample 3
-first line of sample 3
